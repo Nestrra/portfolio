@@ -1,0 +1,49 @@
+
+
+.container-about{ 
+
+    height: 80vh; 
+    width: 100vw; 
+    border-bottom: 200px solid transparent;
+    background-color: black;
+    clip-path: polygon(0% 0%,100% 0%,100% 80%,0% 100%);
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding:7%;
+
+}
+
+
+.container-about h2{
+    margin-bottom: 35px;
+    font-size: 2.9rem;
+
+}
+
+.container-about p{ 
+
+    font-size: 1.5rem;
+
+
+}
+
+.skilss{
+
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+.skilss img{
+
+    height: 140px;
+    width:200px;
+    margin-left: 15px;
+    margin-top: 25px;
+
+}
+
+
+
