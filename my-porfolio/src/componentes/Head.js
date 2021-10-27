@@ -14,7 +14,7 @@ export const Head = () => {
                 </h1>
                 <div>
                     <a href="#proyectos">Proyectos</a>
-                    <a href="https://drive.google.com/file/d/1sTENLkAZYO0lq_Fo99fpvi-owc51TA8V/view?usp=sharing">Descargar CV</a>
+                    <a href="https://drive.google.com/file/d/1KDo04mB5nu4Gm6slmU0N5GqyX3AgFNX9/view?usp=sharing">Descargar CV</a>
                 </div>
 
             </div>
