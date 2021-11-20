@@ -9,6 +9,8 @@
    
 }
 
+
+
 .img-container{
     margin-top: 45px;
    
@@ -60,5 +62,77 @@ h1 span {
 
 
 
+
+@media only screen and (max-width: 1500px){
+
+    h1 span {
+  
+    color: #343233;
+    width: 50.5rem;
+    display: inline-block;
+    line-height: 3rem;
+    font-size: 3rem;
+    font-weight: 700;
+    animation: slideInLeft 0.75s ease both;
+    animation-delay: 0.75s;
+}
+.img-container{
+    margin-top: 45px;
+   
+    height:460px;
+    width: 490px;
+    background-image: url(../img/monitor-web.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+ 
+ }
+
+ 
+
+
+@media only screen and (max-width: 800px){
+    .header h1 {
+        font-family: var(--montserrat);
+        text-align: center;
+        line-height: 2.5rem;
+        font-size: 1.7rem;
+        color:#343233;
+        margin-top: 150px;
+    }
+
+    h1 span {
+        text-align:center;
+    color: #343233;
+    width:100%;
+    display: inline-block;
+    line-height: 3rem;
+    font-size: 2.5rem;
+    font-weight: 700;
+    animation: slideInLeft 0.75s ease both;
+    animation-delay: 0.75s;
+}
+.img-container{
+  display: none;
+}
+.container-head{
+    
+    background-color: #f8af75;
+  
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;   
+    margin-bottom:50px;
+   
+}
+
+.header{
+
+    width:100%;
+
+
+}
+ }
 
 

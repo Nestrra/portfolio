@@ -103,3 +103,46 @@ a:hover {
     background-color: transparent;
     text-decoration: none;
 }
+
+@media only screen and (max-width: 800px){
+
+    .proyectosin{
+        padding:5px;
+        height: 80%;
+        width: 90%;  
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        
+        border-radius: 5px;
+    }
+    .proyectos-container{ 
+
+        height:100%;
+        background-color:#343233;
+        display:flex;
+        justify-content:center;
+    
+    }
+
+    .proyectos-body{
+   
+        padding: 15px;
+        height:90%;
+        width: 90%;
+        font-size: 1.2rem;
+        color:#354355;
+    
+    }
+    .proyectos-img{
+
+      display: none;
+    
+    }
+    .proyectos-img1{
+
+        display: none;
+      
+      }
+    }
+     

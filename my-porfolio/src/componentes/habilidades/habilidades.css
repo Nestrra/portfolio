@@ -102,3 +102,57 @@ a:hover {
 
 }
 
+@media  screen and (max-width: 1600px){
+
+    .img-habilidades{ 
+        background-image: url(../../img/fondo-habilidades.png);
+        background-repeat:no-repeat;
+        background-size: cover;
+        height:450px;
+        width: 450px;
+        margin-top: 190px;
+    }
+    .habilidades-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        height:100%;
+        padding:60px;
+        background-color: #343233;
+    
+    }
+
+}
+@media only screen and (max-width: 800px){
+   
+
+.img-habilidades{ 
+  display: none;
+}
+.curriculum {
+    background-color: #F8AF75;
+    padding: 0.8rem;
+    margin-left: 0.2rem;
+    font-weight: bold;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    cursor: pointer;
+    width: 12rem;
+    transition: all 400ms ease;
+    margin-top: 25px;
+    margin-left: 10rem;
+}
+.habilidades-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height:100%;
+    width: 100%;
+    padding:60px;
+    background-color: #343233;
+
+}
+ }
