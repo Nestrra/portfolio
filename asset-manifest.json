@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.79dc9fcb.chunk.css",
-    "main.js": "/portfolio/static/js/main.53a6c4bc.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.53a6c4bc.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.031fb2d8.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.031fb2d8.js.map",
-    "static/js/2.bf164d5e.chunk.js": "/portfolio/static/js/2.bf164d5e.chunk.js",
-    "static/js/2.bf164d5e.chunk.js.map": "/portfolio/static/js/2.bf164d5e.chunk.js.map",
-    "static/js/3.5dc89c7d.chunk.js": "/portfolio/static/js/3.5dc89c7d.chunk.js",
-    "static/js/3.5dc89c7d.chunk.js.map": "/portfolio/static/js/3.5dc89c7d.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.4057b80a.chunk.css",
+    "main.js": "/portfolio/static/js/main.ee09358b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ee09358b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.2575fa5c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.2575fa5c.js.map",
+    "static/js/2.d800d7d1.chunk.js": "/portfolio/static/js/2.d800d7d1.chunk.js",
+    "static/js/2.d800d7d1.chunk.js.map": "/portfolio/static/js/2.d800d7d1.chunk.js.map",
+    "static/js/3.00337f01.chunk.js": "/portfolio/static/js/3.00337f01.chunk.js",
+    "static/js/3.00337f01.chunk.js.map": "/portfolio/static/js/3.00337f01.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.79dc9fcb.chunk.css.map": "/portfolio/static/css/main.79dc9fcb.chunk.css.map",
-    "static/js/2.bf164d5e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bf164d5e.chunk.js.LICENSE.txt",
-    "static/media/head.css": "/portfolio/static/media/phopto.af313a1e.jpeg"
+    "static/css/main.4057b80a.chunk.css.map": "/portfolio/static/css/main.4057b80a.chunk.css.map",
+    "static/js/2.d800d7d1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d800d7d1.chunk.js.LICENSE.txt",
+    "static/media/proyectos.css": "/portfolio/static/media/Captura3.7be7ffe5.JPG",
+    "static/media/habilidades.css": "/portfolio/static/media/fondo-habilidades.ceabfe42.png",
+    "static/media/Nav.css": "/portfolio/static/media/logo.f437d1cd.png",
+    "static/media/head.css": "/portfolio/static/media/monitor-web.dd01b05a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.031fb2d8.js",
-    "static/js/2.bf164d5e.chunk.js",
-    "static/css/main.79dc9fcb.chunk.css",
-    "static/js/main.53a6c4bc.chunk.js"
+    "static/js/runtime-main.2575fa5c.js",
+    "static/js/2.d800d7d1.chunk.js",
+    "static/css/main.4057b80a.chunk.css",
+    "static/js/main.ee09358b.chunk.js"
   ]
 }
