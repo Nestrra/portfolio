@@ -3,13 +3,16 @@ import './about.css'
 
 export const About = () => {
     return (
-        <div className="container-about">
+
+        <div className="container-about" id='about'>
+            <div className="sobre-mi">
                 <h2>Sobre mi</h2>
-                <p>Estudiande de Bootcamp Full Stack Web Developer en Henry.</p>
-                <p>Lo que mas me motivó a ingresar en el mundo de la programación, es que con cada proyecto realizado aprendes cosas nuevas y te das cuenta que el unico limitante es la mente.
-                Soy una persona ambiciosa, aventurera, incansable y motivada. 
-                </p>
-                <p> Me gusta el cine, los deportes, videojuegos y viajar.</p>
+                <h3>Desarrollador FullStack, especializado en Front-End</h3>
+                <p>Continuamente aprendiendo y adquiriendo nuevas habilidades en función a las actuales, futuras demandas y tendencias tecnológicas en el campo del diseño y desarrollo de aplicaciones web en general.</p>
+                <p>Apasionado con el trabajo que realizo, ofreciendo en cada proyecto total atención, dedicación, personalización y calidad.</p>
+            </div>
+
         </div>
+
     )
 }

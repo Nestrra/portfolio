@@ -1,49 +1,55 @@
 
 
-.container-about{ 
+.container{ 
 
-    height: 80vh; 
-    width: 100vw; 
-    border-bottom: 200px solid transparent;
-    background-color: black;
-    clip-path: polygon(0% 0%,100% 0%,100% 80%,0% 100%);
-    color: white;
+   margin:0;
+   padding:0;
+   
+
+}
+
+.sobre-mi{
     display: flex;
-    align-items: center;
     flex-direction: column;
-    padding:7%;
-
+   padding-left: 95px;
+   padding-top: 40px;
+  
 }
-
-
-.container-about h2{
-    margin-bottom: 35px;
-    font-size: 2.9rem;
-
+.sobre-mi h2{
+   width: 225px;   
+   text-align:center;
+   color:navajowhite;
+   font-size: 3rem;
 }
+.sobre-mi h3{
+   margin-left: 16px;
+    width: 745px;
+    text-align:center;
+    color:navajowhite;    
+    font-size: 2rem;
+ }
+ .sobre-mi p{
+    width: 755px;
+    text-align:center;
+    color: navajowhite;  
 
-.container-about p{ 
-
-    font-size: 1.5rem;
+ }
 
 
-}
+.container-about{
 
-.skilss{
-
-    display: flex;
-    flex-wrap: wrap;
-    
-
-}
-.skilss img{
-
-    height: 140px;
-    width:200px;
-    margin-left: 15px;
-    margin-top: 25px;
-
-}
+    height:450px;
+    width: 66%;
+    background-color: #343233;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    box-shadow: -200px 0 0 0px #9fd4ca, -230px 0 0 0px #dd9568; 
+    position: relative;
+    padding:0;
+    margin-left: 647px;
+    margin-right: 0; 
+    margin-bottom: 45px;   
+  }
 
 
 

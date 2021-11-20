@@ -1,0 +1,105 @@
+
+
+.proyectos-container{ 
+
+    height:960px;
+    background-color:#343233;
+    display:flex;
+    justify-content:center;
+
+}
+
+.proyectos{
+    padding:10px;   
+    width:90%;
+    background-color:#9FD4CA;
+    border-radius: 15px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.proyectos h1{
+  color:#343233;
+}
+
+.proyectosin{
+    padding:5px;
+    height: 50%;
+    width: 90%;  
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.proyectos-body{
+   
+    padding: 15px;
+    height:90%;
+    width: 50%;
+    font-size: 1.2rem;
+    color:#354355;
+
+}
+.proyectos-img1{
+   
+    background-image: url(../../img/Captura3.JPG);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:90%;
+    width: 50%;
+  
+}
+.proyectos-img{
+
+    background-image: url(../../img/Captura.JPG);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:90%;
+    width: 50%;
+ 
+
+}
+
+.botones-link{ 
+    margin-top:55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.btn {
+    background-color: #343233;
+    padding: 0.8rem;
+    margin-left: 0.2rem;
+    font-weight: bold;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    cursor: pointer;
+    width: 12rem;
+    transition: all 400ms ease;
+}
+
+.btn a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #F8AF75;
+    background-color: transparent;
+    text-decoration: none;
+}
