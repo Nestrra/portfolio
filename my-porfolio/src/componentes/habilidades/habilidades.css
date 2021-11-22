@@ -156,3 +156,36 @@ a:hover {
 
 }
  }
+ @media only screen and (max-width: 600px){
+   
+
+    .img-habilidades{ 
+      display: none;
+    }
+    .curriculum {
+        background-color: #F8AF75;
+        padding: 0.8rem;
+        margin-left: 0.2rem;
+        font-weight: bold;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 3rem;
+        cursor: pointer;
+        width: 12rem;
+        transition: all 400ms ease;
+        margin-top: 25px;
+        margin-left: 3rem;
+    }
+    .habilidades-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        height:100%;
+        width: 100%;
+        padding:60px;
+        background-color: #343233;
+    
+    }
+     }

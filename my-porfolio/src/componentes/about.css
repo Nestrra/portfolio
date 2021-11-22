@@ -141,3 +141,50 @@
     
   }
 }
+@media screen and (max-width: 600px){
+
+   .container-about{
+
+   
+    background-color: #343233;
+    border-top-left-radius: 15px;
+    box-shadow: 0px 0 0 0px #ffffff, 0px 0 0 0px #773710; 
+    border-bottom-left-radius: 15px;   
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;   
+    padding:0;
+    width: 90%;
+    height:440px;
+    margin-right: 0; 
+    margin-left: 5%;
+    margin-bottom: 15px;
+     
+     
+    }
+    .sobre-mi h3{
+       text-align: center;
+      margin-left: 0px;
+       width: 100%;      
+       color:navajowhite;    
+       font-size: 1rem;
+       margin-top: 0px;
+    }
+    .sobre-mi p{
+       width: 100%;
+      
+       color: navajowhite;  
+   
+    }
+    .sobre-mi h2{
+       text-align: center;
+      width:100%;     
+      color:navajowhite;
+      font-size: 1.7rem;
+   }
+   .sobre-mi{
+      display: flex;
+      flex-direction: column;
+      padding:35px;
+    
+  }
+}
