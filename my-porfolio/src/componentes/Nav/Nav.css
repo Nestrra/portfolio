@@ -1,4 +1,4 @@
-.nav-container{
+/* .nav-container{
 
     height:60px;
     background-color: #f9a470;
@@ -56,9 +56,10 @@
 }
 
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 600px){
 
     .logo{display: none;}
+    
 
-
- }
+    
+ } */

@@ -1,27 +1,20 @@
 import React from 'react'
+import { Header } from './header/Header'
 import { About } from './About'
 import { Footer } from './footer/Footer'
 import { Habiliadades } from './habilidades/Habiliadades'
-import { Head } from './Head'
-import { Nav } from './Nav/Nav'
+
 import { Proyectos } from './Proyectos/Proyectos'
+import { Index } from './index/Index'
 
 
 
 
 export const HomeScreen = () => {
     return (
-        <div>
+        <>
 
-            <Nav/>
-            <Head />
-            <About/>
-            <Habiliadades/>
-            <Proyectos/>
-            <Footer/>
-          
-
-
-        </div>
+            <Index />
+        </>
     )
 }

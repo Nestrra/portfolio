@@ -4,9 +4,9 @@ import './proyectos.css'
 export const Proyectos = () => {
     return (
         <div className="proyectos-container" id='proyectos'>
-                  
+
             <div className='proyectos'>
-                     <h1>Experiencia</h1>
+                <h1>Experiencia</h1>
                 <div className="proyectosin">
                     <div className="proyectos-body">
                         <h3>Clan-Fest</h3>
