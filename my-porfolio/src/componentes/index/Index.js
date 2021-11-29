@@ -28,7 +28,7 @@ export const Index = () => {
                     <div class="header__grid">
                         <div class="header-texto">
                             <h1 class="header-heading">Nestor Raul Camacho </h1>
-                            <h1>Web developer</h1>
+                            <h3>Desarrollador FullStack</h3>
                             <a href="https://drive.google.com/file/d/1KDo04mB5nu4Gm6slmU0N5GqyX3AgFNX9/view?usp=sharing" target="_blank" class="header__boton">Descargar CV</a>
                         </div>
                         <div class="header__grafico">
