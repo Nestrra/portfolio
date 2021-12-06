@@ -5,6 +5,7 @@ import logo from '../../img/logo2.png'
 import headerImg from '../../img/headimg.gif'
 import clanfest from '../../img/Captura.JPG'
 import tuherra from '../../img/Captura3.JPG'
+import picountries from '../../img/Captura4.JPG'
 import { BiMailSend } from "react-icons/bi";
 import { FaLinkedinIn, FaGithub } from "react-icons/fa";
 import { ImHeart } from "react-icons/im";
@@ -189,6 +190,39 @@ export const Index = () => {
                             </div>
                         </div>
                     </div>
+                    <div className="proyectos__grid">
+                        <div className="listado__elemento">
+                            <div class="listado">
+                                <div class="listado__contenido">
+                                    <div className="listado__proyect">
+                                        <h2 className="listado__heading">PICountries</h2>
+                                        <p className="listado__texto">
+                                            App en la cual se pueda ver información de distintos países utilizando la api externa restcountries y a partir de ella poder,
+
+                                            Buscar paises
+                                            Filtrarlos / Ordenarlos
+                                            Crear actividades turísticas
+                                        </p>
+                                        <p className='listado__texto'>Tecnologias usadas: </p>
+
+                                        <p className='listado__texto'> 
+                                            React,
+                                            Redux, 
+                                            Express,
+                                            Sequelize - Postgres</p>
+                                        <div className="listado__btn">
+
+                                            <a className="listado__boton" href="https://github.com/Nestrra/PI--Countries" target="_blank">Repo</a>
+                                        </div>
+                                    </div>
+                                    <div className="listado__img">
+                                        <img src={picountries} alt="" />
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
 
 
                 </div>
@@ -207,11 +241,11 @@ export const Index = () => {
                         <div className="footer__icono">
                             <a href="mailto:nestrra@gmail.com"> <BiMailSend fontSize='6rem' color='white' /></a>
                         </div>
-                       
+
                     </div>
                     <div>
-                            <p className="footer__copy">Hecho con <ImHeart /> por © Nestor Raul Camacho <span>Noviembre 2021</span></p>
-                        </div>
+                        <p className="footer__copy">Hecho con <ImHeart /> por © Nestor Raul Camacho <span>Noviembre 2021</span></p>
+                    </div>
                 </div>
             </footer>
 
