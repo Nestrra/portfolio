@@ -30,7 +30,7 @@ export const Index = () => {
                         <div class="header-texto">
                             <h1 class="header-heading">Nestor Raul Camacho </h1>
                             <h3>Desarrollador FullStack</h3>
-                            <a href="https://drive.google.com/file/d/1KDo04mB5nu4Gm6slmU0N5GqyX3AgFNX9/view?usp=sharing" target="_blank" class="header__boton">Descargar CV</a>
+                            <a href="https://drive.google.com/file/d/1tXEjbs47-qDXOGy-lq7EPY040a-lpmKr/view?usp=sharing" target="_blank" class="header__boton">Descargar CV</a>
                         </div>
                         <div class="header__grafico">
                             <img class="header__imagen" src={headerImg} alt="imagen app" />
